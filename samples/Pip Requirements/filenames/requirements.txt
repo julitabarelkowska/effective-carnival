@@ -28,5 +28,6 @@ requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerabilit
 rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
 scipy>=1.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
-torch>=1.13.1 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
 werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
