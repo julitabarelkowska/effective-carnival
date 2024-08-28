@@ -11,4 +11,5 @@ gevent>=23.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
 idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
 jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
 setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
-werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
